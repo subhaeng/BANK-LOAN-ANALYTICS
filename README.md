@@ -88,3 +88,4 @@ Both pages share a common navigation bar (page navigator + action buttons) for s
 ##Dashboard
 <img width="1918" height="796" alt="Dashboard" src="https://github.com/subhaeng/BANK-LOAN-ANALYTICS/blob/f3f7bcbe58092984866197b9f5020bbc6494620f/Screenshot%202026-08-19%20184024.png"/>
 
+<img width="1918" height="796" alt="Dashboard" src="https://github.com/subhaeng/BANK-LOAN-ANALYTICS/blob/f3f7bcbe58092984866197b9f5020bbc6494620f/Screenshot%202026-08-19%20184038.png"/>
