@@ -84,3 +84,7 @@ Both pages share a common navigation bar (page navigator + action buttons) for s
 
 - `Good_vs_Bad_Loan` is a derived classification column used to separate healthy loans from defaulted/charged-off ones — this drives the "Good Loan %" and "Bad Loan %" measures that anchor the risk-analysis view.
 - The dataset appears to be based on a lending-club-style loan dataset (columns like `GRADE`, `SUB_GRADE`, `DTI`, `EMP_LENGTH` are characteristic of that schema).
+
+##Dashboard
+https://github.com/subhaeng/BANK-LOAN-ANALYTICS/blob/main/bloandash.pbix
+
