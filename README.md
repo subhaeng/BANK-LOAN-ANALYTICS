@@ -86,6 +86,5 @@ Both pages share a common navigation bar (page navigator + action buttons) for s
 - The dataset appears to be based on a lending-club-style loan dataset (columns like `GRADE`, `SUB_GRADE`, `DTI`, `EMP_LENGTH` are characteristic of that schema).
 
 ##Dashboard
-<img  width="1918" height="796" alt="Dashboard" src="https://github.com/subhaeng/BANK-LOAN-ANALYTICS/blob/main/Screenshot%202026-08-19%20184024.png/>
 
 
